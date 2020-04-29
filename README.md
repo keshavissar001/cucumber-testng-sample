@@ -283,6 +283,10 @@ public class ToDoStepDefinition extends TestRunner {
 
 ![altext](https://github.com/keshavissar001/images/blob/master/CucumberResult2.png)
 
+Below we see a screenshot that depicts our Cucumber-testng code is running over different browsers i.e Chrome, IE and Edge on the LambdaTest Selenium Grid Platform. The results of the test script execution along with the logs can be accessed from the LambdaTest Automation dashboard.
+
+![altext](https://github.com/keshavissar001/images/blob/master/AutomationLogCucumber.png)
+
 ##  Testing Locally Hosted or Privately Hosted Projects
 
 To help you perform cross browser testing of your locally stored web pages, LambdaTest provides an SSH(Secure Shell) tunnel connection with the name Lambda Tunnel. With Lambda Tunnel, you can test your locally hosted files before you make them live over the internet. You could even perform cross browser testing from different IP addresses belonging to various geographic locations. You can also use LambdaTest Tunnel to test web-apps and websites that are permissible inside your corporate firewall.
